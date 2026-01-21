@@ -1,0 +1,78 @@
+.header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    font-family: Arial, sans-serif;
+}
+
+.about-me {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding-left: 50px;
+    text-align: justify;
+}
+
+.skills {
+    margin: 20px;
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    padding-left: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.skill {
+    background-color: #f4f4f4;
+    margin: 5px 0;
+    padding: 10px;
+    border-left: 5px solid #4CAF50;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.projects {
+    margin: 20px;
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    padding-left: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.contact-info {
+    background-color: #e7ffe6;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-family: Arial, sans-serif;
+    
+}
+
+.title {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding-left: 50px;
+    text-align: justify;
+}
